@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bittinkerer
 - 👀 I’m interested in creating (and playing) video games; creating anything that runs on code; 
-- 🌱 I’m currently learning Unity and micro-services. 
+- 🌱 I’m currently learning Unity and shaders. 
 - 💞️ I’m looking to collaborate on gamedev stuff
 - 📫 How to reach me ...
 
