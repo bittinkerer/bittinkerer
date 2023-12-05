@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @bittinkerer
+- 👋 Hi, I’m Ernest (@bittinkerer)
 - 👀 I’m interested in creating (and playing) video games; creating anything that runs on code; 
-- 🌱 I’m currently learning Unity and shaders. 
-- 💞️ I’m looking to collaborate on gamedev stuff
+- 🌱 I’m currently learning shaders and hacking Unity editor. 
+- 💞️ I’m looking to collaborate on gamedev software, including graphics engines.
 - 📫 How to reach me : bittinkerer@gmail.com
 
 <!---
