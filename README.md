@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Ernest (@bittinkerer)
+- 👋 Hi, I’m Ernesto (@bittinkerer)
 - 👀 I’m interested in creating (and playing) video games; creating anything that runs on code; 
-- 🌱 I’m currently learning shaders and hacking Unity editor. 
+- 🌱 I’m currently working on a video game (passion project) in Unity/C#/HLSL
 - 💞️ I’m looking to collaborate on gamedev software, including graphics engines.
-- 📫 How to reach me : bittinkerer@gmail.com
+- 📫 How to reach me : estenystudios@outlook.com
 
 <!---
 bittinkerer/bittinkerer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
